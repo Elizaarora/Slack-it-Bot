@@ -159,13 +159,3 @@ This keeps all AI and API calls off the critical path.
 
 ---
 
-## Live Demo
-
-An interactive demo is available that simulates all three workflows using the same Claude prompts
-as the production bot — no Slack, Jira, Confluence, or Supabase required:
-
-**[it-ops-bot.streamlit.app](https://it-ops-bot.streamlit.app)**
-
----
-
-Built by [Oleg Strutsovski](https://linkedin.com/in/olegst) — IT Operations Manager
